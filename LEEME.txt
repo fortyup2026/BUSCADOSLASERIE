@@ -1,0 +1,19 @@
+BUSCADOS — LA SERIE
+Sitio estático. No requiere dependencias ni variables.
+
+PARA VERCEL
+1. Extraé el ZIP.
+2. Subí index.html, style.css, app.js, chapters.js y assets/ juntos a la raíz de un repositorio de GitHub.
+3. Importá el repositorio en Vercel. Elegí Other y dejá vacío Build Command, con Output Directory en la raíz (.) si pide un valor.
+4. Desplegá el sitio. También podés abrir index.html para probarlo localmente tras extraer todo.
+
+El contenido procede de los tres libros ilustrados. En la temporada 3 el orden web es:
+01 Escapar
+02 Una deuda sin pagar
+03 Regresar de la muerte
+04 El otro mundo
+05 El bien y el mal
+06 Guardianes del bien — Parte 1
+07 Guardianes del bien — Parte 2
+
+Los textos e ilustraciones se referencian desde chapters.js. No se necesita publicar los PDFs.
